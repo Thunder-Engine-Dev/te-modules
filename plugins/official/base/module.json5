@@ -1,0 +1,8 @@
+{
+  url: 'https://github.com/Thunder-Engine-Dev/te-module-base',
+  id: 'base',
+  name: 'Base Module',
+  description: 'Base module that contains the basic Mario Forever stuff',
+  longDescription: '',
+  authors: ['reflexguru', 'jue13']
+}

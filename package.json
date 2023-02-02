@@ -1,0 +1,15 @@
+{
+  "name": "te-plugins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "type": "module",
+  "repository": "https://github.com/Thunder-Engine-Dev/te-plugins.git",
+  "author": "reflexguru",
+  "license": "MIT",
+  "dependencies": {
+    "json5": "^2.2.3"
+  }
+}
