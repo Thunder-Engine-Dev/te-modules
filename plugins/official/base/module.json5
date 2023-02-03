@@ -4,5 +4,5 @@
   name: 'Base Module',
   description: 'Base module that contains the basic Mario Forever stuff',
   longDescription: '',
-  authors: ['reflexguru', 'jue13']
+  authors: ['reflexguru', 'jue13','electroboy']
 }
