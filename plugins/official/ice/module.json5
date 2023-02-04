@@ -1,0 +1,8 @@
+{
+  url: 'https://github.com/Thunder-Engine-Dev/te-module-ice',
+  id: 'ice',
+  name: 'Ice Power-Up',
+  description: 'Ice power-up with Ice Flower.',
+  longDescription: '',
+  authors: ['reflexguru', 'jue13', 'electroboy']
+}

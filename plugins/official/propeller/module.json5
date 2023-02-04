@@ -1,0 +1,8 @@
+{
+  url: 'https://github.com/Thunder-Engine-Dev/te-module-propeller',
+  id: 'propeller',
+  name: 'Propeller Power-Up',
+  description: 'Propeller power-up with Propeller Mushroom.',
+  longDescription: '',
+  authors: ['reflexguru', 'jue13']
+}
