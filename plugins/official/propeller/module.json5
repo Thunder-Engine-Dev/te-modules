@@ -4,5 +4,8 @@
   name: 'Propeller Power-Up',
   description: 'Propeller power-up with Propeller Mushroom.',
   longDescription: '',
-  authors: ['reflexguru', 'jue13']
+  authors: ['reflexguru', 'jue13'],
+  credits: {
+    graphics: ['Unknown']
+  }
 }
