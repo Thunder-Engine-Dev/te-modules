@@ -1,0 +1,11 @@
+{
+  url: 'https://github.com/Thunder-Engine-Dev/te-module-note-blocks',
+  id: 'note-blocks',
+  name: 'Note Blocks',
+  description: 'Custom Note Blocks. Created by experimenting with StaticBumpingBlock class.',
+  longDescription: '',
+  authors: ['jue13'],
+  credits: {
+    graphics: ['Valtteri', 'JUE13']
+  }
+}

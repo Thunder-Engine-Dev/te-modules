@@ -4,5 +4,9 @@
   name: 'Base Module',
   description: 'Base module that contains the basic Mario Forever stuff',
   longDescription: '',
-  authors: ['reflexguru', 'jue13', 'electroboy']
+  authors: ['reflexguru', 'jue13', 'electroboy'],
+  credits: {
+    graphics: ['Nintendo', 'Michael Gdaniec'],
+    sounds: ['Nintendo']
+  }
 }

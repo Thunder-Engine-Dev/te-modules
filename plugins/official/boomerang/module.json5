@@ -4,5 +4,6 @@
   name: 'Boomerang Power-Up',
   description: 'Boomerang power-up with Boomerang Flower.',
   longDescription: '',
-  authors: ['reflexguru', 'jue13']
+  authors: ['reflexguru', 'jue13'],
+  credits: {}
 }

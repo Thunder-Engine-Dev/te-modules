@@ -1,0 +1,9 @@
+{
+  url: 'https://github.com/Thunder-Engine-Dev/te-module-mini-powerup',
+  id: 'mini-powerup',
+  name: 'Mini-Mushroom Power-Up',
+  description: 'Custom Mini-Mushroom. Created by experimenting with power-up system.',
+  longDescription: '',
+  authors: ['jue13'],
+  credits: {}
+}

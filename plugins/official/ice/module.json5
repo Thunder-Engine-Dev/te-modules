@@ -4,5 +4,8 @@
   name: 'Ice Power-Up',
   description: 'Ice power-up with Ice Flower.',
   longDescription: '',
-  authors: ['reflexguru', 'jue13', 'electroboy']
+  authors: ['reflexguru', 'jue13', 'electroboy'],
+  credits: {
+    graphics: ['Nintendo', 'SerafimGWS']
+  }
 }
