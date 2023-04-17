@@ -1,9 +1,0 @@
-{
-  url: 'https://github.com/Thunder-Engine-Dev/te-module-viewport',
-  id: 'viewport',
-  name: 'Viewport Scaling Mode',
-  description: 'A Viewport shader with proper scaling on window resizing.',
-  longDescription: '',
-  authors: ['reflexguru', 'jue13'],
-  credits: {}
-}
