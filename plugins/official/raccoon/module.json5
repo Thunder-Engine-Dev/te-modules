@@ -1,0 +1,11 @@
+{
+  url: 'https://github.com/Thunder-Engine-Dev/te-module-raccoon',
+  id: 'raccoon',
+  name: 'Raccoon Power-Up',
+  description: 'Raccoon power-up.',
+  longDescription: '',
+  authors: ['jue13'],
+  credits: {
+    graphics: ['Unknown']
+  }
+}
