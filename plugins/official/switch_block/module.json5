@@ -1,0 +1,11 @@
+{
+  url: 'https://github.com/Thunder-Engine-Dev/te-switch-block',
+  id: 'switch_block',
+  name: 'Switch Block',
+  description: 'Switch block and switches.',
+  longDescription: '',
+  authors: ['electroboy'],
+  credits: {
+    graphics: ['ReflexGURU']
+  }
+}
