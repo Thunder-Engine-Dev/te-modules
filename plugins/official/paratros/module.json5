@@ -1,9 +1,11 @@
 {
-  url: 'https://github.com/Thunder-Engine-Dev/te-module-boomerang',
+  url: 'https://github.com/Thunder-Engine-Dev/te-paratros',
   id: 'paratros',
   name: 'Paratroopa-like Hammer Bros',
   description: 'Hammer bros with wings.',
   longDescription: '',
   authors: ['reflexguru', 'electronic_boy'],
-  credits: {}
+  credits: {
+    graphics: ['Unknown']
+  }
 }
