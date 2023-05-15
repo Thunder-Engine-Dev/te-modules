@@ -1,0 +1,11 @@
+{
+  url: 'https://github.com/Thunder-Engine-Dev/te-chain-chomp',
+  id: 'chain-chomp',
+  name: 'Chain Chomp',
+  description: 'Chain Chomp enemy from SMB3 and SMM.',
+  longDescription: '',
+  authors: ['electronic_boy'],
+  credits: {
+    graphics: ['Valtteri']
+  }
+}
